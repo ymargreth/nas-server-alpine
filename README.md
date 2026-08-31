@@ -1,6 +1,9 @@
-# nfs-server-alpine
+# nas-server-alpine
 
-A handy NFS Server image comprising Alpine Linux and NFS v4 only, over TCP on port 2049.
+A handy NFS Server image comprising Alpine Linux and
+- NFS v4, over TCP on port 2049
+- SMB v3, over XXX
+- ....
 
 ## Overview
 
