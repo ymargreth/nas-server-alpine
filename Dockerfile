@@ -1,6 +1,6 @@
 FROM alpine:latest
-LABEL maintainer "Steven Iveson <steve@iveson.eu>"
-LABEL source "https://github.com/sjiveson/nfs-server-alpine"
+LABEL maintainer "Yvan Margreth <github.com/ymargreth>"
+LABEL source "https://github.com/ymargreth/nas-server-alpine"
 LABEL branch "master"
 COPY Dockerfile README.md /
 
